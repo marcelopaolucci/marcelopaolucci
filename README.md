@@ -9,8 +9,10 @@ conquistas, operados em produção com custo de infraestrutura próximo de zero.
 
 | | | |
 |---|---|---|
-| [**pesa-minha-buceta**](https://github.com/marcelopaolucci/pesa-minha-buceta) | Bot de gamificação para grupos do Telegram | 22.000+ usuários · 800+ grupos · ~27% DAU/MAU |
+| [**pesa-minha-buceta**](https://github.com/marcelopaolucci/pesa-minha-buceta) | Bot de gamificação para grupos do Telegram | 31.600+ usuários · 1.200+ grupos · 213.000+ pesagens · ~30% DAU/MAU |
 | [**framegram**](https://github.com/marcelopaolucci/framegram) | Jogo diário de adivinhar filmes e séries, estilo Termo | 700+ jogadores no primeiro mês |
+
+No Pesa Minha Buceta, mais de 2.350 jogadores estiveram ativos nos últimos 30 dias.
 
 ## Stack
 
